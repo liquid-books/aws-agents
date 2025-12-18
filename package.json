@@ -1,0 +1,21 @@
+{
+  "name": "aws-agents",
+  "version": "1.0.0",
+  "description": "I want you to write a book about creating aws claude sdk agents and how they can transform the work place and even replace employees \n\ni want this to be 5 chapter long",
+  "scripts": {
+    "start": "myst start",
+    "build": "myst build --html",
+    "clean": "myst clean --all"
+  },
+  "keywords": [
+    "liquid-books",
+    "myst",
+    "jupyter-book",
+    "documentation"
+  ],
+  "author": "Khalil Lyons",
+  "license": "MIT",
+  "devDependencies": {
+    "mystmd": "^1.0.0"
+  }
+}
